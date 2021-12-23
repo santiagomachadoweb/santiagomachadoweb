@@ -2,7 +2,7 @@
 
 ##
 
-### Nos últimos anos, venho atuando como:
+### Nos últimos anos, venho atuando com:
 - <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-web-web-and-seo-prettycons-flat-prettycons.png"> Gestão de projetos web/mobile
 - <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://img.icons8.com/fluency/48/000000/code.png"> Desenvolvimento Full Stack
 - <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://img.icons8.com/color/48/000000/trello.png"> Scrum Master
